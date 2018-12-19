@@ -7,6 +7,8 @@ Works with iOS and tvOS.
 
 1. From Source
     - Clone or download and copy `Assets/UnityMultipeerConnectivity`, `Assets/UnitySwift` and `Assets/Plugin` directories to your own project.
+2. Check Examples
+    - see exemple scene in `Assets/Scenes` and the scripts used in `Assets/Scripts`.
 
 ## Example code
 
