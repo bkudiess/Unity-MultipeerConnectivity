@@ -51,7 +51,7 @@ public class MultipeerReceiver : MonoBehaviour
 
 See [Example Sene](https://github.com/bkudiess/Unity-MultipeerConnectivity/Assets/Scenes).
 
-Based on [noir-neo/UnityARKitMultipeerConnectivity] (https://github.com/noir-neo/UnityARKitMultipeerConnectivity/).
+Based on [noir-neo/UnityARKitMultipeerConnectivity](https://github.com/noir-neo/UnityARKitMultipeerConnectivity/).
 
 ## Requirements
 
